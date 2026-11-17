@@ -1,0 +1,1 @@
+install requirement using uv for the project to run the ipynb kernel in your IDE.
